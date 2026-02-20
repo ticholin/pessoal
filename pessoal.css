@@ -103,6 +103,7 @@
       max-height: 300px;
       border-radius: 12px;
       object-fit: cover;
+      object-position: center top
     }
 
     .card {
