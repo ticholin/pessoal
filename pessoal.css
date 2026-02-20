@@ -59,6 +59,14 @@
       color: var(--text-secondary)
     }
 
+    .intro-card p {
+      text-align: justify
+    }
+
+    .hobbies p {
+      text-align: justify
+    }
+
     /* ANIMAÇÕES */
     .reveal {
       opacity: 0;
